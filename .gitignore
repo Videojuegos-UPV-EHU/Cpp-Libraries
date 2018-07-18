@@ -11,22 +11,15 @@
 *.userprefs
 
 # Build results
-**/[Dd]ebug/**
+[Dd]ebug/
 [Dd]ebugPublic/
-**/[Rr]elease/**
+[Rr]elease/
 [Rr]eleases/
-**/x64/Debug/**
-**/x64/Release/**
-x86/
+x64/
 bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
-
-!x64/Debug/OpenAL32.dll
-!x64/Release/OpenAL32.dll
-!Debug/OpenAL32.dll
-!Release/OpenAL32.dll
 
 # Visual Studio 2015 cache/options directory
 .vs/
